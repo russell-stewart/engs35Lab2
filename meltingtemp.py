@@ -1,6 +1,6 @@
 #Define sequences of forward and reverse primers as given in lab manual
-forward_primer = 'CCCCTGAATTCCATGGCACCAAAAGCAAAAATCGT'
-reverse_primer = 'CCCCTGGATCCTTAAGCTAATGCCTTCATTCTCT'
+forward_primer = 'CTCTCTTACTTCCGTAATCGAATT'
+reverse_primer = 'ATGGCACCAAAAGCAAAAATCGT'
 
 #Start the Tm of the forward primer at zero. Iterate over each base in the
 #sequence of the forward primer and add 4 for each occurance of G or C, or 2
