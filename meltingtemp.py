@@ -1,4 +1,6 @@
-#Define sequences of forward and reverse primers as given in lab manual
+#Define sequences of forward and reverse primers as given in lab manualself.
+#(Note: only the regions of the primers that bind to the chromosomal DNA count
+#towards the calculation of Tm.)
 forward_primer = 'CTCTCTTACTTCCGTAATCGAATT'
 reverse_primer = 'ATGGCACCAAAAGCAAAAATCGT'
 
